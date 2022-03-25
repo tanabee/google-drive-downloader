@@ -8,6 +8,7 @@ Download Google Drive files in a specific folder as PDF. Use service account for
 
 ```
 git clone [REPO]
+cd google-drive-downloader
 yarn
 ```
 
