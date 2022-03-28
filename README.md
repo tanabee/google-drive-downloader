@@ -1,6 +1,6 @@
 ## About
 
-Download Google Drive files in a specific folder as PDF. Use service account for authentication.
+Download Google Drive files (Docs, Spreadsheet, Slide, Jamboard, etc.) in a specific folder as PDF. Use service account for authentication.
 
 ![download-jamboard-using-drive-api](https://user-images.githubusercontent.com/2603644/160069424-309d4d76-cf0d-4787-9c52-ece07211e728.gif)
 
